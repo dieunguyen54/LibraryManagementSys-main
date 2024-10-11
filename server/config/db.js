@@ -1,9 +1,9 @@
 const { Sequelize } = require("sequelize");
 
 const db = new Sequelize(
-  "sql12736852",
-  "sql12736852",
-  "jSmxsFZ1BF",
+  "sql12737126",
+  "sql12737126",
+  "iRHy4LqyHL",
   {
     host: "sql12.freesqldatabase.com",
     dialect: "mysql",
